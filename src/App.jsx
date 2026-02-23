@@ -1093,14 +1093,6 @@ const SCOModelWebsite = () => {
               <h3>Контакты</h3>
               <a href="mailto:sco.scpm@mail.ru">sco.scpm@mail.ru</a>
             </div>
-            <div className="footer-section">
-              <h3>Следите за нами</h3>
-              <div className="social-links">
-                <a href="#" className="social-link">VK</a>
-                <a href="#" className="social-link">TG</a>
-                <a href="#" className="social-link">IG</a>
-              </div>
-            </div>
           </div>
           <div className="footer-bottom">
             <p>© 2026 Модель ШОС ШЦПМ. Все права защищены.</p>
